@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\tutorial02\Debug\hge_tut02.exe
+C:\Users\Lenovo\Desktop\tutorial02\Debug\hge_tut02.pdb
+C:\Users\Lenovo\Desktop\临时资料\tutorial02\Debug\hge_tut02.exe
+C:\Users\Lenovo\Desktop\临时资料\tutorial02\Debug\hge_tut02.pdb
+C:\Users\Lenovo\Desktop\所有Typora的笔记\临时资料\tutorial02\Debug\hge_tut02.exe
+C:\Users\Lenovo\Desktop\所有Typora的笔记\临时资料\tutorial02\Debug\hge_tut02.pdb
