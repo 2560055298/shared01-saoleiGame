@@ -1,8 +1,4 @@
-# 开源扫雷游戏：简要介绍
-
-~~~
-致力于开源，让学习资源共享。										      ---老洋
-~~~
+# 扫雷游戏：简要介绍
 
 
 
@@ -62,7 +58,7 @@
 
 >gitee：https://gitee.com/sheep-are-flying-in-the-sky/shared-content
 
->（百度网盘）链接：https://pan.baidu.com/s/11eVteUnK7qb2QNgyLQGH_A  提取码：l4j2 
+>（百度网盘）链接：  提取码：l4j2 
 
 
 
